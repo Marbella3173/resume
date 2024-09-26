@@ -64,6 +64,13 @@ html{
     padding-bottom: 123px;
 }
 
+.about-desc1{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
 .about-desc{
     font-size: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -107,6 +114,10 @@ html{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin: 0;
     text-align: justify;
+}
+
+.volunteer{
+    margin-bottom: 80px;
 }
 
 .project{
