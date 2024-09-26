@@ -19,7 +19,7 @@ html{
 .name{
     font-size: 100px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    margin-top: 64px;
+    margin-top: 48px;
     margin-bottom: 0px;
     margin-left: 200px;
 }
@@ -56,12 +56,12 @@ html{
 
 .right{
     right: 0;
-    padding-top: 64px;
+    padding-top: 48px;
 }
 
 .right-inner{
     padding-right: 200px;
-    padding-bottom: 123px;
+    padding-bottom: 90px;
 }
 
 .about-desc1{
