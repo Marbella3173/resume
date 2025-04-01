@@ -89,6 +89,14 @@ html{
     margin-bottom: 5px;
 }
 
+.list-job{
+    font-size: 14px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
 .list-name{
     font-size: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -135,7 +143,7 @@ html{
 /* Media Queries */
 
 /* For screens with a maximum width of 768px (e.g., tablets) */
-@media only screen and (max-width: 768px){
+/* @media only screen and (max-width: 768px){
     .split{
         width: 100%;
         position: relative;
@@ -191,10 +199,10 @@ html{
     .list-desc1{
         font-size: 14px;
     }
-}
+} */
   
 /* For screens with a maximum width of 480px (e.g., mobile phones) */
-@media only screen and (max-width: 480px){
+/* @media only screen and (max-width: 480px){
     .split{
         width: 100%;
         position: relative;
@@ -250,4 +258,4 @@ html{
     .list-desc1{
         font-size: 12px;
     }
-}
+} */
