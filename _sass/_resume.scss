@@ -134,6 +134,10 @@
 
 .content-section {
   margin: 0 0 3rem;
+  
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
 
   .resume-item { margin-bottom: 2rem; }
 
