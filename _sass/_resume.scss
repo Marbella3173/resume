@@ -70,6 +70,10 @@
   }
 
   .executive-summary {
+    text-align: justify;
+    text-justify: inter-word;
+    hyphens: auto;
+
     @include media_larger_than_mobile { font-size: 1.125rem; }
   }
 }
@@ -134,7 +138,7 @@
 
 .content-section {
   margin: 0 0 3rem;
-  
+
   text-align: justify;
   text-justify: inter-word;
   hyphens: auto;
