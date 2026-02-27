@@ -1,10 +1,13 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: NLP-Based Automated Essay Scoring Using BERT and Random Forest Algorithm
+  organization:  IEEE International Conference on Industry 4.0, Artificial Intelligence, and Communications Technology (IAICT)
+  year: 2025
+  summary: 
+    • Developed an Automated Essay Scoring (AES) system using BERT for feature extraction and Random Forest for regression prediction. <br>
+    • Achieved high performance with an R2 score of 0.84 and an MSE score of 13.48 using the Hewlett Foundation dataset. <br>
+    • Streamlined grading objectivity and efficiency through automated text cleaning and hyperparameter tuning.
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+# - award: Most Likely To Succeed
+#   organization: Springfield High School
+#   year: 2004
+#   summary: Voted Most Likely To Succeed by a panel of my high school peers.
