@@ -3,16 +3,82 @@
 
 - project: Development of a Casual Exploratory Mobile Game Based on Navier-Stokes Simulation using a Finite Difference Approach
   role: Undergraduate Thesis
-  duration: May, 2025 &mdash; Jan, 2026
+  duration: Sept, 2025 &mdash; Feb, 2026
   url: "https://drive.google.com/file/d/1KFNh7ZD9dcbNn7H9B6wwEmVj7e1or-Wu/view?usp=sharing"
   description: 
-    • Developed “WHISPAWAY”, a mobile game designed as a relaxation medium, integrating fluid dynamics as a core gameplay mechanic. <br>
+    • Developed "WHISPAWAY", a mobile game designed as a relaxation medium, integrating fluid dynamics as a core gameplay mechanic. <br>
     • Implemented the Navier-Stokes equations using the Finite Difference Approximation (FDA) to create real-time, interactive fluid simulations. <br>
     • Optimized complex mathematical computations to ensure high performance and smooth frame rates on mobile devices using Unity (C#). <br>
     • Managed the full project lifecycle, from mathematical modeling and algorithm design to UI/UX implementation and user testing. 
 
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Real-Time Face Detection and Privacy Preservation
+  role: Computer Vision
+  duration: Sept, 2024 &mdash; Feb, 2025
+  url: "https://drive.google.com/drive/folders/1gJAhItbRQFJO89EfjEEZL9PNYGUIuKzb?usp=sharing"
+  description: Developed a Python (OpenCV) model to automate privacy by blurring background faces while keeping the primary subject in focus.
+
+- project: Comparative Analysis of SHA-256, BCrypt, and Argon2 &mdash; The Impact of Pepper on Password Security
+  role: Data Security
+  duration: Sept, 2024 &mdash; Feb, 2025
+  url: "https://drive.google.com/drive/folders/1oSLcksn6r-uCEEHt8fMKhlUWpEFdpPIz?usp=sharing"
+  description: Developed a Python (OpenCV) model to automate privacy by blurring background faces while keeping the primary subject in focus.
+
+- project: SafeNest &mdash; Real-Time Neighborhood Safety Tracking
+  role: Mobile Programming
+  duration: Sept, 2024 &mdash; Feb, 2025
+  url: "https://drive.google.com/drive/folders/1gJAhItbRQFJO89EfjEEZL9PNYGUIuKzb?usp=sharing"
+  description: Developed a Python (OpenCV) model to automate privacy by blurring background faces while keeping the primary subject in focus.
+
+- project: Emergency Vehicle Siren Sound Classification
+  role: Speech and Audio Processing
+  duration: Sept, 2024 &mdash; Feb, 2025
+  url: "https://drive.google.com/drive/folders/1gJAhItbRQFJO89EfjEEZL9PNYGUIuKzb?usp=sharing"
+  description: Developed a Python (OpenCV) model to automate privacy by blurring background faces while keeping the primary subject in focus.
+
+- project: PKM - Karsa Cipta &mdash; Foo-Yoh!
+  role: Software Engineering
+  duration: Feb, 2024 &mdash; July, 2024
+  url: "https://drive.google.com/drive/folders/1gJAhItbRQFJO89EfjEEZL9PNYGUIuKzb?usp=sharing"
+  description: Developed a Python (OpenCV) model to automate privacy by blurring background faces while keeping the primary subject in focus.
+
+- project: Tweet Emotion Label Classification
+  role: Text Mining
+  duration: Feb, 2024 &mdash; July, 2024
+  url: "https://drive.google.com/drive/folders/1gJAhItbRQFJO89EfjEEZL9PNYGUIuKzb?usp=sharing"
+  description: Developed a Python (OpenCV) model to automate privacy by blurring background faces while keeping the primary subject in focus.
+
+- project: Integer Programming for Profit Optimization Using the Gomory Cutting Plane Method
+  role: Applied Mathematics Modeling
+  duration: Feb, 2024 &mdash; July, 2024
+  url: "https://drive.google.com/drive/folders/1gJAhItbRQFJO89EfjEEZL9PNYGUIuKzb?usp=sharing"
+  description: Developed a Python (OpenCV) model to automate privacy by blurring background faces while keeping the primary subject in focus.
+
+- project: ILKEA's Website
+  role: Human and Computer Interaction
+  duration: Sept, 2023 &mdash; Feb, 2024
+  url: "https://drive.google.com/drive/folders/1gJAhItbRQFJO89EfjEEZL9PNYGUIuKzb?usp=sharing"
+  description: Developed a Python (OpenCV) model to automate privacy by blurring background faces while keeping the primary subject in focus.
+
+- project: Xiao Ding Dong's Restaurant Website
+  role: Web Programming
+  duration: Sept, 2023 &mdash; Feb, 2024
+  url: "https://drive.google.com/drive/folders/1gJAhItbRQFJO89EfjEEZL9PNYGUIuKzb?usp=sharing"
+  description: Developed a Python (OpenCV) model to automate privacy by blurring background faces while keeping the primary subject in focus.
+
+- project: PKM - Karsa Cipta &mdash; CredHelper
+  role: Artificial Intelligence
+  duration: Feb, 2023 &mdash; July, 2023
+  url: "https://drive.google.com/drive/folders/1gJAhItbRQFJO89EfjEEZL9PNYGUIuKzb?usp=sharing"
+  description: Developed a Python (OpenCV) model to automate privacy by blurring background faces while keeping the primary subject in focus.
+
+- project: Classification and Similarity Analysis of Sapindaceae Family Chloroplast Genes
+  role: Computational Biology
+  duration: Feb, 2023 &mdash; July, 2023
+  url: "https://drive.google.com/drive/folders/1gJAhItbRQFJO89EfjEEZL9PNYGUIuKzb?usp=sharing"
+  description: Developed a Python (OpenCV) model to automate privacy by blurring background faces while keeping the primary subject in focus.
+
+- project: Predicting Heart Disease Presence Using a Binary Logistic Regression Model
+  role: Data Mining and Visualization
+  duration: Sept, 2022 &mdash; Feb, 2023
+  url: "https://drive.google.com/drive/folders/1gJAhItbRQFJO89EfjEEZL9PNYGUIuKzb?usp=sharing"
+  description: Developed a Python (OpenCV) model to automate privacy by blurring background faces while keeping the primary subject in focus.
