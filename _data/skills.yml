@@ -1,12 +1,21 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Programming Languages
+  description: Python, SQL (Oracle & MySQL), HTML/CSS, R, C#, PHP, Java, JavaScript, C, MATLAB, Octave
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Frameworks & IDEs
+  description: Unity, OutSystems, VS Code, RStudio, Laravel, Bootstrap, Android Studio, Eclipse, Dev-C++
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Data Science & AI
+  description: Regular Expressions (Regex), Machine Learning, Deep Learning, Anaconda, Google Colab, Kaggle
+
+- skill: Design & Specialized Tools
+  description:  Figma, Canva, GeoGebra, Git/GitHub, Docker, ArcGIS Pro, QGIS, POM-QM, Oracle VM VirtualBox, Cisco
+
+- skill: Leadership & Management
+  description: Experienced in organizational branding, end-to-end event coordination, and cross-divisional team leadership.
+
+- skill: Communication & Mentoring
+  description: Skilled in public relations, educational mentoring for diverse age groups, and financial reporting.
+
+- skill: Languages
+  description: Indonesian (Native), English (Professional), Chinese (Fluent/Teaching Proficiency)
