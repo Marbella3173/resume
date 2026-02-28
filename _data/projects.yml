@@ -1,14 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Development of a Casual Exploratory Mobile Game Based on Navier-Stokes Simulation using a Finite Difference Approach
+  role: Undergraduate Thesis
+  duration: May, 2025 &mdash; Jan, 2026
+  url: "https://drive.google.com/file/d/1KFNh7ZD9dcbNn7H9B6wwEmVj7e1or-Wu/view?usp=sharing"
+  description: 
+    • Developed “WHISPAWAY”, a mobile game designed as a relaxation medium, integrating fluid dynamics as a core gameplay mechanic. <br>
+    • Implemented the Navier-Stokes equations using the Finite Difference Approximation (FDA) to create real-time, interactive fluid simulations. <br>
+    • Optimized complex mathematical computations to ensure high performance and smooth frame rates on mobile devices using Unity (C#). <br>
+    • Managed the full project lifecycle, from mathematical modeling and algorithm design to UI/UX implementation and user testing. 
 
-# Springfield Community Outreach Group
 - project: Springfield Community Outreach Group
   role: Co-Founder & Organizer
   duration: 2007 &mdash; Present
