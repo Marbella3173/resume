@@ -15,70 +15,70 @@
   role: Computer Vision
   duration: Sept, 2024 &mdash; Feb, 2025
   url: "https://drive.google.com/drive/folders/1gJAhItbRQFJO89EfjEEZL9PNYGUIuKzb?usp=sharing"
-  description: Developed a Python (OpenCV) model to automate privacy by blurring background faces while keeping the primary subject in focus.
+  description: Developed a Python model using OpenCV to automate privacy preservation by blurring all faces in a video stream except for the primary subject.
 
 - project: Comparative Analysis of SHA-256, BCrypt, and Argon2 &mdash; The Impact of Pepper on Password Security
   role: Data Security
   duration: Sept, 2024 &mdash; Feb, 2025
   url: "https://drive.google.com/drive/folders/1oSLcksn6r-uCEEHt8fMKhlUWpEFdpPIz?usp=sharing"
-  description: Developed a Python (OpenCV) model to automate privacy by blurring background faces while keeping the primary subject in focus.
+  description: Evaluated the resilience of SHA-256, BCrypt, and Argon2 hashing algorithms, specifically analyzing how the implementation of a server-side pepper enhances overall password protection.
 
 - project: SafeNest &mdash; Real-Time Neighborhood Safety Tracking
   role: Mobile Programming
   duration: Sept, 2024 &mdash; Feb, 2025
-  url: "https://drive.google.com/drive/folders/1gJAhItbRQFJO89EfjEEZL9PNYGUIuKzb?usp=sharing"
-  description: Developed a Python (OpenCV) model to automate privacy by blurring background faces while keeping the primary subject in focus.
+  url: "https://drive.google.com/file/d/1SCT15UQhGYyQCe0rXPd7cpanqZXKjZdc/view?usp=sharing"
+  description: Engineered a mobile application for real-time incident reporting and neighborhood safety monitoring using Android Studio (Java), Firebase, OSM Library, and News API.
 
 - project: Emergency Vehicle Siren Sound Classification
   role: Speech and Audio Processing
   duration: Sept, 2024 &mdash; Feb, 2025
-  url: "https://drive.google.com/drive/folders/1gJAhItbRQFJO89EfjEEZL9PNYGUIuKzb?usp=sharing"
-  description: Developed a Python (OpenCV) model to automate privacy by blurring background faces while keeping the primary subject in focus.
+  url: "https://drive.google.com/drive/folders/1qDEHFxUxcKqJyJ0NfqhZQQI5DlDVwowg?usp=sharing"
+  description: Optimized classification accuracy for emergency vehicle sirens by modifying existing Deep Learning architectures into a more efficient Machine Learning approach tailored to the dataset.
 
-- project: PKM - Karsa Cipta &mdash; Foo-Yoh!
+- project: PKM - Karsa Cipta &mdash; Foo-Yoh! &mdash; Multiplatform Grocery and Recipe App
   role: Software Engineering
   duration: Feb, 2024 &mdash; July, 2024
-  url: "https://drive.google.com/drive/folders/1gJAhItbRQFJO89EfjEEZL9PNYGUIuKzb?usp=sharing"
-  description: Developed a Python (OpenCV) model to automate privacy by blurring background faces while keeping the primary subject in focus.
+  url: "https://drive.google.com/drive/folders/1eeTo8tcsHPvZl-Xmd-52rf0kIn_FjjAt?usp=sharing"
+  description: Created a multiplatform grocery and recipe application using React Native (Expo), Supabase, and Figma, featuring fast delivery integration and professional chef guidance.
 
 - project: Tweet Emotion Label Classification
   role: Text Mining
   duration: Feb, 2024 &mdash; July, 2024
-  url: "https://drive.google.com/drive/folders/1gJAhItbRQFJO89EfjEEZL9PNYGUIuKzb?usp=sharing"
-  description: Developed a Python (OpenCV) model to automate privacy by blurring background faces while keeping the primary subject in focus.
+  url: "https://drive.google.com/drive/folders/1Wq2ttDFPAbWbJwtkfMzDcFl21br419UF?usp=sharing"
+  description: Classified text-based emotion labels from Twitter data using a combination of Machine Learning and Deep Learning models in Python.
 
 - project: Integer Programming for Profit Optimization Using the Gomory Cutting Plane Method
   role: Applied Mathematics Modeling
   duration: Feb, 2024 &mdash; July, 2024
-  url: "https://drive.google.com/drive/folders/1gJAhItbRQFJO89EfjEEZL9PNYGUIuKzb?usp=sharing"
-  description: Developed a Python (OpenCV) model to automate privacy by blurring background faces while keeping the primary subject in focus.
+  url: "https://drive.google.com/file/d/1OK2abWz_dDXm7h1K2NToJcbkQsvC1ykc/view?usp=sharing"
+  description: Optimized production profits for UMKM Capal Classic Shoes by applying the Gomory Cutting Plane method and comparing results across Python and POM-QM.
 
-- project: ILKEA's Website
+- project: ILKEA &mdash; Furniture E-Commerce UI/UX Website
   role: Human and Computer Interaction
   duration: Sept, 2023 &mdash; Feb, 2024
-  url: "https://drive.google.com/drive/folders/1gJAhItbRQFJO89EfjEEZL9PNYGUIuKzb?usp=sharing"
-  description: Developed a Python (OpenCV) model to automate privacy by blurring background faces while keeping the primary subject in focus.
+  url: "https://github.com/Marbella3173/project_hci"
+  description: Designed and developed a furniture e-commerce website using HTML/CSS, supported by a high-fidelity Figma prototype for user interface optimization.
 
-- project: Xiao Ding Dong's Restaurant Website
+- project: Xiao Ding Dong &mdash; Chinese Restaurant Website
   role: Web Programming
   duration: Sept, 2023 &mdash; Feb, 2024
-  url: "https://drive.google.com/drive/folders/1gJAhItbRQFJO89EfjEEZL9PNYGUIuKzb?usp=sharing"
-  description: Developed a Python (OpenCV) model to automate privacy by blurring background faces while keeping the primary subject in focus.
+  url: "https://github.com/Marbella3173/project_webprog"
+  description: Built a fully functional Chinese restaurant website utilizing the PHP Laravel framework for robust backend management and order processing.
 
-- project: PKM - Karsa Cipta &mdash; CredHelper
+- project: PKM - Karsa Cipta &mdash; CredHelper &mdash; AI-Driven Credit Scoring
   role: Artificial Intelligence
   duration: Feb, 2023 &mdash; July, 2023
-  url: "https://drive.google.com/drive/folders/1gJAhItbRQFJO89EfjEEZL9PNYGUIuKzb?usp=sharing"
-  description: Developed a Python (OpenCV) model to automate privacy by blurring background faces while keeping the primary subject in focus.
+  url: "https://drive.google.com/file/d/1lBl21Ik8fPq6gcXefCEPlPlokZhGbamn/view?usp=sharing"
+  description: Implemented a Machine Learning model in Python to classify and predict the credit scores of potential debtors based on historical data.
 
 - project: Classification and Similarity Analysis of Sapindaceae Family Chloroplast Genes
   role: Computational Biology
   duration: Feb, 2023 &mdash; July, 2023
-  url: "https://drive.google.com/drive/folders/1gJAhItbRQFJO89EfjEEZL9PNYGUIuKzb?usp=sharing"
-  description: Developed a Python (OpenCV) model to automate privacy by blurring background faces while keeping the primary subject in focus.
+  url: "https://drive.google.com/file/d/1stMRmfqEN4FfYfnP9kZPVMKctj6FeluZ/view?usp=sharing"
+  description: Extracted DNA features to classify plant species within the Sapindaceae family using Python-based Machine Learning approaches.
 
 - project: Predicting Heart Disease Presence Using a Binary Logistic Regression Model
   role: Data Mining and Visualization
   duration: Sept, 2022 &mdash; Feb, 2023
-  url: "https://drive.google.com/drive/folders/1gJAhItbRQFJO89EfjEEZL9PNYGUIuKzb?usp=sharing"
-  description: Developed a Python (OpenCV) model to automate privacy by blurring background faces while keeping the primary subject in focus.
+  url: "https://drive.google.com/file/d/1uie-ucD5whogqWtOVdcK6CcTcdTXaM6B/view?usp=sharing"
+  description: Constructed a Binary Logistic Regression model in R to predict the presence of heart disease using 11 clinical predictor variables.
