@@ -2,8 +2,7 @@
 - award: NLP-Based Automated Essay Scoring Using BERT and Random Forest Algorithm
   organization:  IEEE International Conference on Industry 4.0, Artificial Intelligence, and Communications Technology (IAICT)
   year: 2025
-  url: "https://ieeexplore.ieee.org/document/11101472"
-  summary: 
+  summary: <strong><a href = "https://ieeexplore.ieee.org/document/11101472">IEEE URL</a></strong> <br>
     • Developed an Automated Essay Scoring (AES) system using BERT for feature extraction and Random Forest for regression prediction. <br>
     • Achieved high performance with an R<sup>2</sup> score of 0.84 and an MSE score of 13.48 using the Hewlett Foundation dataset. <br>
     • Streamlined grading objectivity and efficiency through automated text cleaning and hyperparameter tuning.
